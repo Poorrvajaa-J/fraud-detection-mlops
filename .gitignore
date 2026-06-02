@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data (too large for GitHub)
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# MLflow
+mlruns/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
